@@ -6,6 +6,8 @@ DevOps Engineer
 
 I have studied Games and Software engineering for over 5 years and been employed as a DevOps engineer since August of 2022. Using mainly .Net and C# but some other languages such as JavaScript are not uncommon. During my studies I used mostly C++, but also C, Assembly, and a bunch of other things as well. 
 
+Have some experience with Godot, Unreal and Unity as well, mostly during University projects. But not as much as I would have liked. 
+
 Since most of my university projects had to be private and I can't use my private Github account for my work, with my current company, it might seem a bit empty here. But hope that doesn't discourage anyone.
 
 * 🌍  I'm based in Karlskrona, Sweden
